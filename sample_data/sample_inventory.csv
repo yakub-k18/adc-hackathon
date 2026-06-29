@@ -1,0 +1,6 @@
+product_id,sku,inventory_count,warehouse_location,supplier_name
+PRD-001,SKU-ALPHA-01,150,Mumbai Central,Acme Supplies Ltd
+PRD-002,SKU-BETA-22,87,Delhi North,Global Parts Co
+PRD-003,SKU-GAMMA-15,203,Bengaluru South,Prime Logistics
+PRD-004,SKU-DELTA-09,45,Hyderabad East,Metro Wholesale
+PRD-005,SKU-EPSILON-33,312,Pune West,Vertex Industries

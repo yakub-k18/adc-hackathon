@@ -1,0 +1,17 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+.streamlit/
+
+.idea/
+.vscode/
+
+*.log
+
+uploads/
+
+*.db
+
+.DS_Store

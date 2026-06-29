@@ -1,0 +1,17 @@
+Customer Support Record
+========================
+
+Customer Name: Rahul Sharma
+Phone Number: 9876543210
+Email Address: rahul.sharma@example.com
+City: Mumbai
+
+Notes:
+The customer contacted support regarding a billing issue. Please verify identity
+before sharing account details.
+
+Additional identifiers on file (synthetic test data):
+Aadhaar: 2345 6789 0123
+PAN: ABCDE1234F
+
+Internal reference: CASE-77821 (non-personal ticket ID)
